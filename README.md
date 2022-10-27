@@ -12,3 +12,6 @@ https://lcsantana1.github.io/Quiz/
 
 
 Screenshot:
+
+![Screen Shot 2022-10-26 at 11 13 09 PM](https://user-images.githubusercontent.com/106941418/198197719-a018a433-1819-4a76-97d4-32a5e2477047.png)
+
