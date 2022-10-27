@@ -8,5 +8,7 @@ This JavaScript Code Quiz challenge has 5 questions total and are all multiple c
 
 Link to Deployed application:
 
+https://lcsantana1.github.io/Quiz/
+
 
 Screenshot:
