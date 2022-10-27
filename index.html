@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <a href="#">highscores</a>
+        <p>Time: <span id="time">0</span></p>
+    </header>
+
+    <div id="first">
+        <button id="start">Start Quiz</button>
+    </div>
+
+    <div id="second" class="hide">
+        <h2 id="title"></h2>
+        <div id="choices"></div>
+    </div>
+
+    <div id="third" class="hide">
+        <h3>Final Score: <span id="final-score">0</span></h3>
+        <p>Initials: <input id="initials" type="text"><button id="submit">submit</button></p>
+    </div>
+    <script src="./questions.js"></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>
+
+<!-- create elements-timer, three containers 1.start quiz 2.display questions 
+    3.answer options 4.score 5.input to put initials and score -->
